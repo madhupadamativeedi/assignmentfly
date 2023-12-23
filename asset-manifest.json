@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignmentfly/static/css/main.cc9cb883.css",
+    "main.js": "/assignmentfly/static/js/main.2f773ca4.js",
+    "index.html": "/assignmentfly/index.html",
+    "main.cc9cb883.css.map": "/assignmentfly/static/css/main.cc9cb883.css.map",
+    "main.2f773ca4.js.map": "/assignmentfly/static/js/main.2f773ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc9cb883.css",
+    "static/js/main.2f773ca4.js"
+  ]
+}
